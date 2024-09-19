@@ -10,6 +10,7 @@
   "categories": [
     "Extension Packs"
   ],
+  "repository": "https://github.com/JohnnyOak85/base-typescript-extension-pack",
   "extensionPack": [
     "dbaeumer.vscode-eslint",
     "eamodio.gitlens",
