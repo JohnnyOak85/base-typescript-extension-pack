@@ -1,0 +1,23 @@
+{
+  "name": "base-typescript-extension-pack",
+  "displayName": "Base TypeScript Extension Pack",
+  "description": "A pack of useful VS Code extensions for development.",
+  "version": "0.0.1",
+  "publisher": "johnnyoak",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "Gruntfuggly.todo-tree",
+    "jasonlhy.hungry-delete",
+    "shardulm94.trailing-spaces",
+    "streetsidesoftware.code-spell-checker",
+    "yoavbls.pretty-ts-errors"
+  ]
+}
